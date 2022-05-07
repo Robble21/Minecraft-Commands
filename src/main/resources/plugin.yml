@@ -1,0 +1,7 @@
+name: SudoPlugin
+version: '${project.version}'
+main: de.robble.sudoplugin.Main
+api-version: 1.18
+
+commands:
+  sudo:
